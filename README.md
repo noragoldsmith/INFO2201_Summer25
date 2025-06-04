@@ -1,8 +1,5 @@
-# INFO2201_Summer25
+# INFO2201_Summer25_version Laurie
 ### This is for everyone to get familiar with this system and for us to hae one to break and have fun with
-
-i actually don't this i'm changing it blach blah blah version changes are scary
-
 
 GitHub is an online platform primarily used for storing, managing, and sharing code, and facilitating collaboration on software development projects. It works by using Git, a distributed version control system, which allows developers to track changes to their code, revert to previous versions, and work on different versions of a project simultaneously. 
 
